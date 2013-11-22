@@ -1,0 +1,7 @@
+#emacs 
+*.*~
+\#.*
+
+#fish files
+fish_history
+fishd.*
